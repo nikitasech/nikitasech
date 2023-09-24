@@ -37,7 +37,7 @@
 
 <p align="center">🧠 Сейчас изучаю паттерны проектирования, архитектуру веб-приложений, алгоритмы и структуры данных.</p>
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center;">
 <img align="center" src="./metrics-fullyear.svg">
 </div>
 
