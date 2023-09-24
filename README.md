@@ -3,6 +3,8 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%BD%D0%B0_Notion-403a3a?logo=notion&link=http%3A%2F%2Fnikitasech.notion.site%2F2541b10299cb4873a84aaaab97b13116%3Fpvs%3D4">
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-403a3a?logo=telegram&link=https%3A%2F%2Ft.me%2FNikitaSech">
+
 https://img.shields.io/badge/Telegram-403a3a?logo=telegram&link=https%3A%2F%2Ft.me%2FNikitaSech
 
 https://img.shields.io/badge/NikitaSech%40yandex.ru-403a3a?cacheSeconds=mailto%3Anikitasech%40yandex.ru
