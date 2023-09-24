@@ -35,11 +35,8 @@
 <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
 </p>
 
-
 <p align="center">🧠 Сейчас изучаю паттерны проектирования, архитектуру веб-приложений, алгоритмы и структуры данных.</p>
 
-- 🖥️ [Резюме в Notion](http://nikitasech.notion.site/2541b10299cb4873a84aaaab97b13116?pvs=4)
-- ✈️ [Telegram: @NikitaSech](http://t.me/NikitaSech)
-- ✉️ [NikitaSech@yandex.ru](mailto:nikitasech@yandex.ru)
+<img align="center" src="./metrics-fullyear.svg">
 
 <p align="center">✨ Мечтаю сделать этот мир лучше ✨</p>
