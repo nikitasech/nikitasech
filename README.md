@@ -36,4 +36,4 @@
 </div>
 <br>
 
-<p align="center">✨ Мечтаю сделать этот мир лучше ✨</p>
+<p align="center" style="opacity: 0.5">✨ Мечтаю сделать этот мир лучше ✨</p>
