@@ -13,7 +13,7 @@
 <img alt="Email" src="https://img.shields.io/badge/NikitaSech%40yandex.ru-403a3a?cacheSeconds=mailto%3Anikitasech%40yandex.ru">
 </a>
 </div>
-
+<br>
 
 <p align="center">Изучаю сферу разработки около 5 лет и имею достаточно устоявшиеся и структурированные знания. В 2020 году успешно отучился в HTML Academy по профессии «Фронтенд-разработчик».</p>
 
